@@ -17,7 +17,7 @@ To test this change, follow the steps:
 
 
 ## Checklist:
-- [ ] My code follows the [coding guidelines](./docs/dev-guidelines/README.md).
+- [ ] My code follows the [coding guidelines](https://github.com/Pashudhan360/.github/blob/main/docs/dev-guidelines/README.md).
 - [ ] I have written enough comments for a non technical person to understand my code
 - [ ] My change requires a change to the existing [functional documentation](https://learn.zoho.in/portal/merapashu360).
 - [ ] I have updated the documentation accordingly.
